@@ -1,0 +1,727 @@
+06/01/2024, 13:56 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+23/01/2024, 22:16 - navinrajput: Hii aniket bro
+23/01/2024, 22:17 - Aniket Raje: Bolo bhai
+23/01/2024, 22:17 - navinrajput: Bro tumne web development chalu hai
+23/01/2024, 22:17 - Aniket Raje: Ha
+23/01/2024, 22:17 - Aniket Raje: Abhi nextjs kar raha hu
+23/01/2024, 22:17 - navinrajput: Kha se kar raha ho
+23/01/2024, 22:18 - Aniket Raje: Hitesh choudhary - chai aur code
+23/01/2024, 22:18 - navinrajput: Ok
+23/01/2024, 22:18 - navinrajput: Haa dekha ho
+23/01/2024, 22:18 - navinrajput: Or data science kaisa chal raha hai
+23/01/2024, 22:18 - Aniket Raje: Best hai unka playlist
+23/01/2024, 22:18 - navinrajput: Haa dekha bro
+23/01/2024, 22:19 - Aniket Raje: Thik bas todha break liya. Is month feb main deep learning start karne ka socha hai
+23/01/2024, 22:19 - navinrajput: Mai bhi bro machine learing start karo ga
+23/01/2024, 22:20 - Aniket Raje: Aap abhi web development kar rahe ho kya
+23/01/2024, 22:21 - navinrajput: Bhai wo kaisa hai ki week mai sunday sunday web development ke concept sikha tha ho baki din data science or coding karta ho
+23/01/2024, 22:21 - Aniket Raje: Badiya hai apka
+23/01/2024, 22:22 - navinrajput: Haa bro
+23/01/2024, 22:22 - Aniket Raje: Kitna hua hai abhi tak apka
+23/01/2024, 22:23 - navinrajput: Bro mai abhi thoda college ki waja se time set nhi hota hai isa liye maine abhi thoda break.chal raha time.milta hai to karta ho coding wagera
+23/01/2024, 22:24 - Aniket Raje: Ya big problem hai. Same mera bhi yahi hai
+23/01/2024, 22:24 - navinrajput: Tum btech kar raha ho
+23/01/2024, 22:24 - Aniket Raje: Ha
+23/01/2024, 22:24 - navinrajput: Kha se
+23/01/2024, 22:24 - Aniket Raje: Bharati vidyapeeth navi mumbai
+23/01/2024, 22:24 - Aniket Raje: Abhishek kar raha hai vhi se
+23/01/2024, 22:25 - navinrajput: Mai LJ engineering college se kar raha ho mca
+23/01/2024, 22:25 - Aniket Raje: Cholo bye
+26/01/2024, 18:21 - navinrajput: Hii bro
+26/01/2024, 18:21 - Aniket Raje: Bolo bro
+26/01/2024, 18:22 - navinrajput: Bro deep learing ka koi hands notes hai tumhare pass
+26/01/2024, 18:22 - Aniket Raje: Hand written nhi hai
+26/01/2024, 18:22 - navinrajput: Tu kaisa hai
+26/01/2024, 18:23 - Aniket Raje: Mere nhi hai online mile the
+26/01/2024, 18:23 - Aniket Raje: Rukho bhejta hu
+26/01/2024, 18:23 - Aniket Raje: <Media omitted>
+26/01/2024, 18:23 - navinrajput: Ok
+26/01/2024, 18:25 - Aniket Raje: Bhai sorry mil nhi rahe
+26/01/2024, 18:25 - Aniket Raje: Mil jayega tabh bhej dunga
+26/01/2024, 18:25 - navinrajput: Ok
+03/02/2024, 23:04 - navinrajput: Hii
+03/02/2024, 23:12 - Aniket Raje: Hi bro
+03/02/2024, 23:14 - navinrajput: Bro ml koi project bana hai tumne
+03/02/2024, 23:14 - Aniket Raje: Ha
+03/02/2024, 23:15 - navinrajput: Kon sa
+03/02/2024, 23:15 - Aniket Raje: Maine navi mumbai ke jitne bhi flats hai unka price and location extra scrap kiya alag alag website se
+03/02/2024, 23:15 - Aniket Raje: Uske upar data analysis kiya
+03/02/2024, 23:15 - Aniket Raje: Aur ml models train kiye
+03/02/2024, 23:16 - Aniket Raje: Usme random forest sabse acha result deh raha tha
+03/02/2024, 23:16 - Aniket Raje: Around 78 %
+03/02/2024, 23:16 - navinrajput: Ml youtube se hi pada tha
+03/02/2024, 23:16 - Aniket Raje: Ha 100days campus
+03/02/2024, 23:16 - navinrajput: Haa
+03/02/2024, 23:16 - navinrajput: Ok
+03/02/2024, 23:16 - Aniket Raje: Kya hua
+03/02/2024, 23:16 - Aniket Raje: Kuch kaam tha
+03/02/2024, 23:17 - Aniket Raje: http://navimumbai.pythonanywhere.com/
+03/02/2024, 23:17 - Aniket Raje: Ye vo model hai
+03/02/2024, 23:17 - Aniket Raje: Deploye kiya hai django main
+03/02/2024, 23:17 - Aniket Raje: Aur kiye hai kaggle dataset pe
+03/02/2024, 23:18 - navinrajput: Bro mai soch raha ho apne group mai har saturday or sunday daily lecture le koi jisko jo aata hai wo bata te tu jaldi cover ho ga
+03/02/2024, 23:18 - Aniket Raje: Ha lekin campusx wala best hai, instead teaching hume doubt solve karne chahiye
+03/02/2024, 23:18 - Aniket Raje: Ek dusre ke
+03/02/2024, 23:19 - Aniket Raje: Aur koi aur Padhygea toh kuch kuch chut jaayega
+03/02/2024, 23:19 - navinrajput: Haa wo hi or kuch project bhi discussion
+03/02/2024, 23:19 - Aniket Raje: Apka kitna hua hai
+03/02/2024, 23:19 - Aniket Raje: Ml
+03/02/2024, 23:19 - navinrajput: Abhi start karo ga
+03/02/2024, 23:19 - Aniket Raje: Jitna jaldi ho sake utne jaldi finish karo
+03/02/2024, 23:19 - Aniket Raje: Kyuki kitne bhi deep main padha na bhul jaayenge
+03/02/2024, 23:20 - Aniket Raje: Hum
+03/02/2024, 23:20 - navinrajput: Mujhe project chahiye taki ml.sikha te rahu or project banata rahu
+03/02/2024, 23:20 - Aniket Raje: Islye pehele course complete karo jaldi se jaldi
+03/02/2024, 23:20 - navinrajput: Ok
+05/02/2024, 21:29 - navinrajput: hii
+05/02/2024, 21:29 - Aniket Raje: Hi bro
+05/02/2024, 21:31 - navinrajput: bro tum free rahte 1 ya 2 hour daily
+05/02/2024, 21:31 - Aniket Raje: Abhi toh nhi rehta hu
+05/02/2024, 21:31 - Aniket Raje: Clg ka work rehta hai
+05/02/2024, 21:32 - Aniket Raje: Is sem todha busy rahunga
+05/02/2024, 21:32 - Aniket Raje: Kya hua
+05/02/2024, 21:32 - navinrajput: nhi tu mujhe ml sikha de
+05/02/2024, 21:32 - Aniket Raje: Bhai main khud bhul chuka hu
+05/02/2024, 21:32 - Aniket Raje: Muje practice karni hogi
+05/02/2024, 21:32 - Aniket Raje: Todhi revision bhi karna hoga
+05/02/2024, 21:32 - navinrajput: ok
+05/02/2024, 21:33 - Aniket Raje: Bhai apko campusx ka samj nhi arha kya
+05/02/2024, 21:33 - navinrajput: nhi bro wo problem nhi hai
+05/02/2024, 21:34 - navinrajput: wo kya mujhe khali saam ko time milta hai nus padhne baaki tu pura din college mai nikal jata hai or college work bhi karna rahata hai isa liye bola
+05/02/2024, 21:35 - Aniket Raje: Same bro ye clg ke vaje se time nhi milta
+05/02/2024, 21:35 - navinrajput: haa
+05/02/2024, 21:35 - Aniket Raje: apne start kiya hai kya
+05/02/2024, 21:35 - navinrajput: haa start tu kiya
+05/02/2024, 21:35 - Aniket Raje: Daily 1-2 hrs bhut hai
+05/02/2024, 21:35 - navinrajput: haa
+05/02/2024, 21:35 - Aniket Raje: Practice aur notes important hai
+05/02/2024, 21:36 - Aniket Raje: Baad main break ke baad bhul jate hai
+05/02/2024, 21:36 - Aniket Raje: Mere sath vhi hua
+05/02/2024, 21:36 - Aniket Raje: Lekin revision main time nhi lagega
+05/02/2024, 21:36 - navinrajput: mera tu sep month  placement start hoga
+05/02/2024, 21:37 - Aniket Raje: Aap konse year main ho abhi
+05/02/2024, 21:37 - navinrajput: mai mca kar raha hu
+05/02/2024, 21:37 - navinrajput: abhi sem 2 chalu hai
+05/02/2024, 21:37 - Aniket Raje: Bhai apka development main kuch hua hai kya
+05/02/2024, 21:38 - Aniket Raje: Mere college main 4-5 bache hai vo bhut ache hai machine learning main phir bhi une data anylst wala role mila hai
+05/02/2024, 21:38 - Aniket Raje: Ek ka IBM main laga hai use 9 LPA de rahe hai
+05/02/2024, 21:38 - navinrajput: haa bhai web development aata bus wo react or node or express kar lo tu pur mere ko python mai web development aata hai
+05/02/2024, 21:39 - Aniket Raje: Main abhi react and next js hi kar raha hu
+05/02/2024, 21:39 - navinrajput: hmm
+05/02/2024, 22:34 - navinrajput: Bro kal doudt sloving rakhe kya
+05/02/2024, 23:10 - Aniket Raje: Ha rakte hai
+05/02/2024, 23:10 - Aniket Raje: Sabh ko puch ke dekte hai kal
+06/02/2024, 06:36 - navinrajput: Ok
+09/02/2024, 21:43 - navinrajput: Hii
+09/02/2024, 21:44 - Aniket Raje: Hi bro
+09/02/2024, 21:45 - navinrajput: Bro maine pdf beji thi wo dekha
+09/02/2024, 21:45 - Aniket Raje: Nhi bro muje time nhi mila abhi dekhta hu
+09/02/2024, 21:48 - navinrajput: Bro dekha
+09/02/2024, 21:48 - Aniket Raje: Ha
+09/02/2024, 21:48 - navinrajput: Bro karne jaisa hai
+09/02/2024, 21:48 - Aniket Raje: Ha
+09/02/2024, 21:49 - Aniket Raje: Hume saare subject hai
+09/02/2024, 21:49 - navinrajput: Kyuki ismai wo sare subject jo hum abhi padha raha hai
+09/02/2024, 21:49 - Aniket Raje: Ha
+09/02/2024, 21:49 - navinrajput: Tu try kare kya exam de iski
+09/02/2024, 21:50 - Aniket Raje: Abhi toh nhi
+09/02/2024, 21:50 - Aniket Raje: Todha confidence chaiye
+09/02/2024, 21:50 - navinrajput: Bro abhi nhi next year
+09/02/2024, 21:50 - Aniket Raje: Dekhunga
+09/02/2024, 21:50 - Aniket Raje: Pakka nhi hai
+09/02/2024, 21:51 - navinrajput: Tumhara placement kab hai
+09/02/2024, 21:51 - Aniket Raje: Time hai
+09/02/2024, 21:51 - Aniket Raje: Main abhi 2 nd year main hu
+09/02/2024, 21:51 - navinrajput: Ok
+09/02/2024, 21:51 - navinrajput: Mera tu isa saal hai
+09/02/2024, 21:51 - Aniket Raje: Oh
+09/02/2024, 21:51 - navinrajput: Hmm
+09/02/2024, 21:52 - Aniket Raje: Aapke college main companies arhi hai kya
+09/02/2024, 21:52 - navinrajput: Bro senior ka tu ho gaya abhi humara sep se chalu ho ga
+09/02/2024, 21:53 - Aniket Raje: Aap abhi 3rd year main ho kya
+09/02/2024, 21:53 - navinrajput: Bro mera tu mca hai <This message was edited>
+09/02/2024, 21:53 - Aniket Raje: Ok
+09/02/2024, 21:54 - Aniket Raje: Is saal jobs kam hone wala hai
+09/02/2024, 21:54 - Aniket Raje: Specialy software and machine learning field main
+09/02/2024, 21:54 - navinrajput: Haa bro ye hi problem hai
+09/02/2024, 21:54 - Aniket Raje: Aap data anylst pe focus karo todha
+09/02/2024, 21:55 - Aniket Raje: Chances jyda hai vha pe mil ne ke
+09/02/2024, 21:55 - Aniket Raje: Mere clg se 3,4 bacho ka ibm main laga hai
+09/02/2024, 21:55 - Aniket Raje: Around 8lpa hai
+09/02/2024, 21:55 - navinrajput: Bro mai tu dsa bhi kar raha aur web dev bhi
+09/02/2024, 21:55 - navinrajput: Ye tu bro isa mai hi ho jaye ga
+09/02/2024, 21:56 - Aniket Raje: All the best bhai. Acha placement lage apka
+09/02/2024, 21:56 - navinrajput: Hmm bro
+10/02/2024, 21:56 - navinrajput: Bro ye wani yavatmai maharastra mai kha par aaya hai
+10/02/2024, 21:56 - Aniket Raje: Yavatmal kya
+10/02/2024, 21:56 - navinrajput: Wani hai
+10/02/2024, 21:57 - navinrajput: Maharastra mak
+10/02/2024, 21:57 - Aniket Raje: Ha
+10/02/2024, 21:57 - Aniket Raje: Nagpur side main
+10/02/2024, 21:57 - Aniket Raje: Kya hua
+10/02/2024, 21:57 - navinrajput: Hai kuch kaam hai bhai
+10/02/2024, 21:57 - Aniket Raje: Nagpur ke paas hai
+10/02/2024, 21:57 - Aniket Raje: I guess
+10/02/2024, 21:58 - navinrajput: Tumhare yaha se kitna dur padega
+10/02/2024, 21:58 - Aniket Raje: Main navi mumbai main rehta hu
+10/02/2024, 21:58 - Aniket Raje: Bhut dur hai
+10/02/2024, 21:58 - navinrajput: ok
+18/02/2024, 22:40 - navinrajput: Hii
+18/02/2024, 22:40 - Aniket Raje: Hi bro
+18/02/2024, 22:41 - navinrajput: Bro ml ke notes hai tumhare pass
+18/02/2024, 22:41 - Aniket Raje: Nahi
+18/02/2024, 22:41 - Aniket Raje: Main ml mastery book ko refer karta hu
+18/02/2024, 22:41 - navinrajput: Tu book bejo na bro
+18/02/2024, 22:41 - Aniket Raje: <Media omitted>
+18/02/2024, 22:42 - Aniket Raje: <Media omitted>
+18/02/2024, 22:42 - navinrajput: Ok bro
+18/02/2024, 22:43 - navinrajput: Bro dl start kiya
+18/02/2024, 22:43 - Aniket Raje: Ha
+18/02/2024, 22:43 - Aniket Raje: Backpropagation pe atka hu
+18/02/2024, 22:43 - navinrajput: Bro mlops kiya hai tumne ki baki hai
+18/02/2024, 22:43 - Aniket Raje: Mlops nhi kiya
+18/02/2024, 22:43 - Aniket Raje: Vo end main
+18/02/2024, 22:44 - navinrajput: Hmm
+19/02/2024, 19:50 - navinrajput: hi
+19/02/2024, 19:50 - Aniket Raje: Hi
+19/02/2024, 19:51 - navinrajput: bro math ka topic complete kiya hai ya math kuch padha
+19/02/2024, 19:52 - Aniket Raje: Matlab
+19/02/2024, 19:52 - navinrajput: jo data science ke use hota hai math wo pdha hai ki baki hai
+19/02/2024, 19:53 - Aniket Raje: Mere sabh hua hai kyuki mere syllabus main sabh aiml ka maths hai
+19/02/2024, 19:53 - Aniket Raje: 5 subject the maths ke
+19/02/2024, 19:53 - navinrajput: btech ke syllabus mai
+19/02/2024, 19:53 - Aniket Raje: Ha
+19/02/2024, 19:54 - Aniket Raje: Utna maths ki abhi tak need nhi hui lekin
+19/02/2024, 19:54 - navinrajput: bhai wo tu maine bhi padha hai but thoda practice ke liye thodha karna hai revision karna hai
+19/02/2024, 19:55 - Aniket Raje: 100days of machine learning playlist main kuch maths use nhi hora
+19/02/2024, 19:55 - Aniket Raje: Bas linear algebra
+19/02/2024, 19:55 - Aniket Raje: Basic derivative
+19/02/2024, 19:55 - navinrajput: haa wo hi bol raha
+19/02/2024, 19:55 - Aniket Raje: And vector Algebra
+19/02/2024, 19:55 - Aniket Raje: Itne hi topic important hai
+19/02/2024, 19:55 - Aniket Raje: 3brown1blue channel ko refer karo
+19/02/2024, 19:56 - navinrajput: waise tu math tu padha hai but interview se phele padhan hai
+19/02/2024, 19:56 - Aniket Raje: Utna maths pe abhi focus mat karo
+19/02/2024, 19:56 - Aniket Raje: Ha use time hi padhna
+19/02/2024, 20:02 - navinrajput: ok
+01/04/2024, 18:35 - navinrajput: hii
+01/04/2024, 19:14 - navinrajput: Bro reply karo
+01/04/2024, 19:17 - Aniket Raje: Hi kya hua
+01/04/2024, 19:18 - navinrajput: Bro jo tumne house price  wala project banaya tha uska code bejna to
+01/04/2024, 19:18 - Aniket Raje: Ok
+01/04/2024, 19:18 - Aniket Raje: Lekin bhut sare files hai
+01/04/2024, 19:18 - Aniket Raje: Thik se code nhi kiya tha maine
+01/04/2024, 19:18 - Aniket Raje: Google Drive ka link bhejta hu
+01/04/2024, 19:18 - navinrajput: Ok
+01/04/2024, 19:19 - Aniket Raje: 5 min main bhejta hu
+01/04/2024, 19:22 - Aniket Raje: https://drive.google.com/drive/folders/1VXYEuQaT9pmo9ShGhlx85iXp6UeasXfd
+25/04/2024, 19:58 - navinrajput: Bhai wo course ka pranav bol raha uske baare socha kuch
+25/04/2024, 20:12 - Aniket Raje: Bhai mere dost ke pass hai vo course
+25/04/2024, 20:12 - Aniket Raje: Humne liya tha 1year phele hi
+25/04/2024, 20:13 - Aniket Raje: Utna khaas kuch nhi hai usme
+25/04/2024, 20:21 - navinrajput: Esa
+05/05/2024, 18:41 - navinrajput: Hii
+05/05/2024, 18:41 - Aniket Raje: Hi
+05/05/2024, 18:42 - navinrajput: Bhai kuch bol kyu nhi raha hu
+05/05/2024, 18:42 - Aniket Raje: Bhai bas sunn raha hu
+05/05/2024, 18:42 - Aniket Raje: Kuch rahega toh bol dunga
+05/05/2024, 18:42 - navinrajput: Ok
+05/05/2024, 18:43 - Aniket Raje: Apka linked in url send karo
+05/05/2024, 18:43 - navinrajput: Wait
+05/05/2024, 18:43 - navinrajput: https://www.linkedin.com/in/navin-rajput-036894235/
+05/05/2024, 19:06 - navinrajput: Apni id share linkdin ki
+05/05/2024, 19:07 - Aniket Raje: https://www.linkedin.com/in/aniket-raje?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+09/05/2024, 19:17 - navinrajput: Bro react koi login register page mujhe backend mai connect karna hai node js se
+09/05/2024, 19:18 - Aniket Raje: Ok
+09/05/2024, 19:18 - navinrajput: Bejna hai tu
+09/05/2024, 19:18 - Aniket Raje: Dekta hu
+09/05/2024, 19:18 - navinrajput: Hmm
+09/05/2024, 19:18 - Aniket Raje: Main abhi bhar hu
+09/05/2024, 19:19 - navinrajput: Thik hai bej dena bro raat tak
+09/05/2024, 19:19 - Aniket Raje: Mila toh bhen dunga
+09/05/2024, 19:19 - navinrajput: Ok
+09/05/2024, 19:19 - Aniket Raje: Maine react and node js abhi tak connect nhi kiya i guess
+09/05/2024, 19:20 - Aniket Raje: Ise pehle main django karta tha
+09/05/2024, 19:20 - Aniket Raje: Django ka hai authentication system
+09/05/2024, 19:20 - navinrajput: Nhi mujhe kya react mai mil jaye ga na tu mai try karo ga
+09/05/2024, 19:20 - Aniket Raje: Chai aur code ke channel pe hai i guess
+09/05/2024, 19:21 - Aniket Raje: Video lec
+09/05/2024, 19:21 - navinrajput: Ok
+09/05/2024, 19:21 - navinrajput: Tu dekhata ho
+09/05/2024, 19:21 - Aniket Raje: Ha
+09/05/2024, 19:21 - Aniket Raje: Maine react abhi start kiya hai
+09/05/2024, 19:21 - navinrajput: Ok
+17/05/2024, 07:59 - navinrajput: Hii bro
+17/05/2024, 11:24 - Aniket Raje: Bolo bhai
+17/05/2024, 11:25 - navinrajput: Bhai tumne intership ka socha mujhe kari hai isa kiye puccha rha hu
+17/05/2024, 14:22 - Aniket Raje: Nhi socha abhi tak
+17/05/2024, 14:22 - navinrajput: bro chalu karte hai ha
+17/05/2024, 14:22 - Aniket Raje: 1,2 project bana ne ke baad apply karunga
+17/05/2024, 14:23 - navinrajput: tu kon sa bana raha hu
+17/05/2024, 14:23 - Aniket Raje: Socha nhi hai abhi
+17/05/2024, 14:23 - navinrajput: mera ek ready hai jo iot banaya tha
+17/05/2024, 14:23 - Aniket Raje: Mera exam hone ke baad start karunga
+17/05/2024, 14:23 - navinrajput: ok
+18/05/2024, 09:55 - navinrajput: Bro google collab ka use kar ke bhi project bana skte hai
+18/05/2024, 13:14 - Aniket Raje: Main collab hi use karta hu
+19/05/2024, 21:53 - navinrajput: Bro usko online hi use kar skte hau
+19/05/2024, 22:39 - Aniket Raje: Ha
+26/05/2024, 08:34 - navinrajput: Bro jupter notebook use nhi karte hu kya
+26/05/2024, 13:08 - Aniket Raje: Ha
+26/05/2024, 13:08 - Aniket Raje: Kabhi kabhi use karta hu
+26/05/2024, 13:08 - Aniket Raje: Mostly google collab
+26/05/2024, 18:05 - navinrajput: Bro iska desktop version hai kya kyu ki mai bhut kaam use collab
+26/05/2024, 18:05 - Aniket Raje: Nhi pata
+26/05/2024, 18:06 - Aniket Raje: Main browser main use karta hu
+26/05/2024, 18:06 - navinrajput: Ok
+31/05/2024, 16:55 - navinrajput: Hii
+31/05/2024, 16:55 - Aniket Raje: Hello
+31/05/2024, 17:00 - navinrajput: Bro python base koi project idea hai using flask
+31/05/2024, 17:07 - Aniket Raje: Video streaming website
+31/05/2024, 17:08 - Aniket Raje: Multimedia sharing web app
+31/05/2024, 17:08 - navinrajput: Ok
+01/06/2024, 18:28 - navinrajput: bro tumne bana hai
+01/06/2024, 18:31 - navinrajput: bro ye tu amzone prime ya netflix ya hotstart jaisa webiste hoga
+01/06/2024, 19:48 - navinrajput: bhai jo tumne project bataya hai unki website ki koi template padi ho tu bejna na
+01/06/2024, 19:48 - navinrajput: ya phir mai netflix ki use karlo
+01/06/2024, 20:19 - Aniket Raje: Bhai,Nhi hai mere paas.
+01/06/2024, 20:20 - navinrajput: Tumne banaya hai
+01/06/2024, 20:20 - Aniket Raje: Nhi
+01/06/2024, 20:20 - navinrajput: Ye batana
+01/06/2024, 20:20 - Aniket Raje: Main baad main try karne wala hu
+01/06/2024, 20:21 - navinrajput: Bro
+01/06/2024, 20:21 - Aniket Raje: Nhi hai bhai
+01/06/2024, 20:21 - Aniket Raje: Ha
+01/06/2024, 20:21 - Aniket Raje: Ekdam nhi par
+01/06/2024, 20:22 - Aniket Raje: Backend se video web socket ya webrtc through
+01/06/2024, 20:22 - Aniket Raje: Send hogi
+01/06/2024, 20:22 - navinrajput: Bro inki api use karke movies ka data dal de tu
+01/06/2024, 20:22 - Aniket Raje: Ha vo bhi acha rahega
+01/06/2024, 20:22 - navinrajput: Hmm
+01/06/2024, 20:23 - navinrajput: Bro ya video streaming mai anime ka bana du thofa unqui lage ga
+01/06/2024, 20:23 - Aniket Raje: Ha bhai
+01/06/2024, 20:24 - navinrajput: But uski api kha se laoga bus ye problem hai
+01/06/2024, 20:25 - Aniket Raje: Rapid api pe check karo ek baar
+01/06/2024, 20:25 - Aniket Raje: Koi anime related api mili
+01/06/2024, 20:25 - navinrajput: Ok
+01/06/2024, 20:25 - Aniket Raje: Toh usko project banv
+01/06/2024, 20:25 - navinrajput: Thik hai
+01/06/2024, 20:26 - Aniket Raje: Anime suggestions type yese kuch
+01/06/2024, 20:26 - navinrajput: Ol
+01/06/2024, 23:27 - navinrajput: Hii bro
+01/06/2024, 23:46 - Aniket Raje: Hi
+01/06/2024, 23:47 - navinrajput: Bro abhi tak kitne project bana hai tumne
+01/06/2024, 23:58 - Aniket Raje: 2-3
+01/06/2024, 23:58 - Aniket Raje: Food ordering website dango - incomplete hai abhi
+01/06/2024, 23:58 - navinrajput: Kon kon sa
+01/06/2024, 23:59 - Aniket Raje: ISP service management
+01/06/2024, 23:59 - navinrajput: Ye kispar banaya djangi
+01/06/2024, 23:59 - Aniket Raje: Php
+01/06/2024, 23:59 - Aniket Raje: https://foodbee.pythonanywhere.com/
+01/06/2024, 23:59 - navinrajput: Django mai banya tha
+01/06/2024, 23:59 - navinrajput: Koi
+01/06/2024, 23:59 - Aniket Raje: .
+02/06/2024, 00:00 - navinrajput: Ok
+02/06/2024, 00:00 - navinrajput: Isp mai kya hota hai
+02/06/2024, 00:01 - Aniket Raje: Internet service plan
+02/06/2024, 00:01 - Aniket Raje: Like plan renewal
+02/06/2024, 00:01 - Aniket Raje: Employee management
+02/06/2024, 00:01 - navinrajput: Ok
+02/06/2024, 00:02 - Aniket Raje: Conplaints register
+02/06/2024, 00:02 - navinrajput: Iska koi resource hai
+02/06/2024, 00:03 - Aniket Raje: Nhi pata muje
+02/06/2024, 00:03 - Aniket Raje: Main koi video dekha tha
+02/06/2024, 00:03 - Aniket Raje: I guess neetcode. io wala
+02/06/2024, 00:03 - navinrajput: Kha par
+02/06/2024, 00:03 - Aniket Raje: .
+02/06/2024, 00:03 - navinrajput: Youtube par
+02/06/2024, 00:04 - Aniket Raje: Nhi uske course main
+02/06/2024, 00:04 - navinrajput: Ok
+02/06/2024, 00:04 - Aniket Raje: Telegram pe tha
+02/06/2024, 00:04 - Aniket Raje: Pehle
+02/06/2024, 00:04 - Aniket Raje: Abhi nhi hoga shayd
+02/06/2024, 00:04 - navinrajput: Nhi matlab video stream tu netflix ki tarha ho jaye ga
+02/06/2024, 00:04 - Aniket Raje: Ha
+02/06/2024, 00:05 - Aniket Raje: Bro web socket ya webrtc sikho
+02/06/2024, 00:05 - Aniket Raje: Use kam ho jayega
+02/06/2024, 00:05 - navinrajput: Or multmedia sharing ka bataoo
+02/06/2024, 00:06 - Aniket Raje: Vo bhi peer to peer through web socket aur web rtc
+02/06/2024, 00:06 - navinrajput: Ok
+02/06/2024, 00:06 - Aniket Raje: Or ya phir direct user upload karega server pe va se vo link share karega
+02/06/2024, 00:07 - Aniket Raje: Google Drive jaise
+02/06/2024, 00:07 - navinrajput: Abhi kya sikha raha hu
+02/06/2024, 00:07 - navinrajput: Kon year tumhara
+02/06/2024, 00:08 - Aniket Raje: Abhi main express kiya hu
+02/06/2024, 00:08 - Aniket Raje: Koi project bana ne wala hu
+02/06/2024, 00:08 - navinrajput: Ok
+02/06/2024, 00:08 - Aniket Raje: Exam ke baad
+02/06/2024, 00:08 - Aniket Raje: React aur next basic kiya hai
+02/06/2024, 00:08 - navinrajput: Year kon sa tumahra
+02/06/2024, 00:08 - Aniket Raje: Abhi 4th sem main hu
+02/06/2024, 00:08 - Aniket Raje: 2nd year
+02/06/2024, 00:09 - Aniket Raje: July se 3rd year chalu ho raha hai
+02/06/2024, 00:09 - navinrajput: Ok
+02/06/2024, 00:09 - navinrajput: Thik hai bro
+02/06/2024, 00:09 - navinrajput: Good night
+02/06/2024, 00:09 - Aniket Raje: Web rtc ke liye dennis ivy ke videos hai
+02/06/2024, 00:10 - navinrajput: Ok
+02/06/2024, 00:10 - Aniket Raje: Webrtc based project best rahega
+02/06/2024, 00:10 - navinrajput: Thik hai
+02/06/2024, 00:10 - Aniket Raje: Kyuki bhut kam log ko ati hai
+02/06/2024, 00:10 - navinrajput: Haa
+02/06/2024, 00:10 - Aniket Raje: Bye
+02/06/2024, 00:10 - navinrajput: Bye
+05/06/2024, 11:35 - navinrajput: Hii bro
+05/06/2024, 14:54 - Aniket Raje: Hi
+05/06/2024, 18:33 - navinrajput: Bro koi notes banaya hai tumne
+05/06/2024, 18:34 - Aniket Raje: Konse
+05/06/2024, 18:34 - navinrajput: Data science mai
+05/06/2024, 18:34 - Aniket Raje: Rukho dekh tha hu
+05/06/2024, 18:34 - Aniket Raje: Mila toh bhejta hu
+05/06/2024, 18:34 - Aniket Raje: 2,3 topic ke upar hi banya tha
+05/06/2024, 18:35 - Aniket Raje: DOC-20240416-WA0000 (file attached)
+05/06/2024, 18:36 - navinrajput: Ok
+05/06/2024, 18:52 - navinrajput: ye hi hai
+05/06/2024, 18:53 - Aniket Raje: Aur linear regression and logistic ka hai
+05/06/2024, 18:53 - Aniket Raje: Baad main bhejta hu
+05/06/2024, 18:53 - navinrajput: ok
+05/06/2024, 22:20 - navinrajput: bro  share karon please
+05/06/2024, 22:20 - Aniket Raje: Bhai main bhar hu
+05/06/2024, 22:20 - Aniket Raje: Ghar jane ke baad karta hu
+05/06/2024, 22:20 - navinrajput: Ok bro
+05/06/2024, 22:58 - Aniket Raje: linear_regression_notes.pdf (file attached)
+05/06/2024, 23:05 - Aniket Raje: logistic_regression_notes.pdf (file attached)
+05/06/2024, 23:06 - navinrajput: Thanks bro
+08/06/2024, 22:44 - navinrajput: Bhai website ki tempalte kha se download karo free mai
+09/06/2024, 08:10 - Aniket Raje: Free template search karo
+09/06/2024, 08:11 - Aniket Raje: Bhut sari web sites hai
+09/06/2024, 08:11 - navinrajput: Haa bro but jaisi chahiye waisi nhi milti hai
+10/06/2024, 20:32 - navinrajput: hii bro docker kaha se sikho
+10/06/2024, 20:34 - Aniket Raje: Hitesh Chaudhary ki video hai dekho
+10/06/2024, 20:54 - navinrajput: ok
+23/06/2024, 16:48 - Aniket Raje: Hi bhai
+23/06/2024, 16:56 - navinrajput: Haa bhai
+23/06/2024, 16:56 - Aniket Raje: Amazon test diya kya apne
+23/06/2024, 16:56 - navinrajput: Haa
+23/06/2024, 16:57 - Aniket Raje: Kitne baje tha
+23/06/2024, 16:57 - navinrajput: Subha 9 baje
+23/06/2024, 16:57 - Aniket Raje: Mera abhi hai 7 baje
+23/06/2024, 16:57 - Aniket Raje: Kaise gya
+23/06/2024, 16:57 - navinrajput: Thik tha
+23/06/2024, 16:58 - navinrajput: Ml.ka theory ke 8 mcq tha math ka 12 mcq
+23/06/2024, 16:58 - Aniket Raje: Aapne chatgpt use kiya kya
+23/06/2024, 16:59 - Aniket Raje: Muje lagta hai mostly students cheating karenge
+23/06/2024, 16:59 - navinrajput: Kiya but utna possible nhi paya kyuki copy nhi hota hai question
+23/06/2024, 17:00 - Aniket Raje: Ok
+23/06/2024, 17:00 - Aniket Raje: Kitne candidate selecte honge 8000 main se
+23/06/2024, 17:00 - navinrajput: Pata nhi bro
+23/06/2024, 17:00 - Aniket Raje: Maine kahi padha tha 3000 honge
+23/06/2024, 17:01 - navinrajput: Accha hum bhi ho jaye tu
+23/06/2024, 17:30 - navinrajput: Math ke concept mai thoda ajib laga tha mujhe
+23/06/2024, 20:57 - navinrajput: Bhai kaisa gya test
+23/06/2024, 20:57 - Aniket Raje: Bhut hard gya mera
+23/06/2024, 20:57 - Aniket Raje: Bhai ek course main enroll karne ke liye itna kuch
+23/06/2024, 20:57 - Aniket Raje: Math kuch nhi ata muje toh
+23/06/2024, 20:58 - Aniket Raje: Aur ye log machine learning ati hai yesa samj ke  tha
+23/06/2024, 20:58 - navinrajput: Or kuch question math topic se alag tha
+23/06/2024, 20:58 - Aniket Raje: Ha
+23/06/2024, 20:58 - Aniket Raje: Mera toh nhi hoga
+23/06/2024, 20:58 - navinrajput: Mera bhi shayad hoga
+23/06/2024, 20:59 - Aniket Raje: Mera nhi hoga
+23/06/2024, 20:59 - Aniket Raje: I mean
+23/06/2024, 20:59 - navinrajput: Mera bhi kuch khe nhi skate hai
+23/06/2024, 20:59 - Aniket Raje: Chodo
+23/06/2024, 20:59 - navinrajput: Hm
+23/06/2024, 20:59 - Aniket Raje: Apne learning pe dyan denge
+23/06/2024, 20:59 - navinrajput: Haa
+23/06/2024, 20:59 - Aniket Raje: Main toh abhi dsa kar raha hu
+23/06/2024, 21:00 - navinrajput: Kon si language mai
+23/06/2024, 21:00 - Aniket Raje: Python
+23/06/2024, 21:00 - Aniket Raje: Bas concept pe dyan dena hai
+23/06/2024, 21:00 - navinrajput: Kha se kar rahu hu
+23/06/2024, 21:01 - Aniket Raje: Take u forward series
+23/06/2024, 21:01 - navinrajput: Wo c++ mai hai na
+23/06/2024, 21:01 - Aniket Raje: Ha lekin main code khud se kar raha hu
+23/06/2024, 21:01 - Aniket Raje: Aur unke website pe hai
+23/06/2024, 21:01 - Aniket Raje: Python ka
+23/06/2024, 21:02 - navinrajput: Python mai bhi video leacture
+23/06/2024, 21:02 - Aniket Raje: Problem solving techniques important hai
+23/06/2024, 21:02 - Aniket Raje: Nhi bas code hai
+23/06/2024, 21:02 - navinrajput: Ok
+23/06/2024, 21:02 - navinrajput: Accha hai two language mai dsa hai
+23/06/2024, 21:03 - Aniket Raje: Nhi muje c++ nhi ati
+23/06/2024, 21:03 - Aniket Raje: Sirf python main
+23/06/2024, 21:03 - navinrajput: Ok
+23/06/2024, 21:03 - navinrajput: Mai tu dono.mai karta hu
+23/06/2024, 21:03 - Aniket Raje: Sahi hai
+23/06/2024, 21:04 - navinrajput: Hmm
+23/06/2024, 21:53 - navinrajput: Hii
+23/06/2024, 21:54 - navinrajput: Bro mai socha raha hu ki r programming sikho tu koi best youtube channel hai bata oo
+23/06/2024, 22:12 - Aniket Raje: Bhai aap ko agar research main nhi jana hai toh r bilkul mat sikho abho
+23/06/2024, 22:13 - Aniket Raje: Par agar apko karna hai toh 365 data science ka course hai
+23/06/2024, 22:13 - Aniket Raje: Paid hai vo par apko telegram ya khi pe mil jaygea
+23/06/2024, 22:13 - navinrajput: Nhi mujhe research mai nhi jaana ye bus knowleadge ke liye
+23/06/2024, 22:14 - Aniket Raje: Mat sikho phir
+23/06/2024, 22:14 - Aniket Raje: Bhut confusing language hai beginner ke liye
+23/06/2024, 22:14 - Aniket Raje: Aap pehele python main hi machine learning, deep learning sikho
+23/06/2024, 22:14 - navinrajput: Ok
+23/06/2024, 22:14 - Aniket Raje: Python best hai
+23/06/2024, 22:14 - navinrajput: Haa
+23/06/2024, 22:14 - navinrajput: Wo best hai
+23/06/2024, 22:14 - Aniket Raje: Bhut jan abhi R ko use nhi kar rahe
+23/06/2024, 22:15 - navinrajput: Hmm
+23/06/2024, 22:15 - Aniket Raje: Kyuki python main new libraries ayi hai jo R se best hai
+23/06/2024, 22:15 - navinrajput: Ok
+27/06/2024, 20:50 - navinrajput: hi
+27/06/2024, 20:50 - Aniket Raje: Hi
+27/06/2024, 20:51 - navinrajput: bro wo take forword mai python code kaha hai
+27/06/2024, 20:51 - Aniket Raje: Niche code tabs rehte hai
+27/06/2024, 20:51 - Aniket Raje: Solution page main
+27/06/2024, 20:54 - navinrajput: IMG-20240627-WA0006.jpg (file attached)
+27/06/2024, 20:54 - navinrajput: Ye
+27/06/2024, 21:16 - Aniket Raje: Dsa sheets>article
+27/06/2024, 21:19 - navinrajput: Ek kaam.karo link send kar do
+27/06/2024, 21:19 - Aniket Raje: https://takeuforward.org/data-structure/binary-search-explained/
+01/07/2024, 13:47 - navinrajput: Hii
+01/07/2024, 13:48 - navinrajput: Bro mail aaya tha tumko Amazon ka ml wala
+01/07/2024, 15:19 - Aniket Raje: Nhi
+01/07/2024, 20:35 - navinrajput: IMG-20240701-WA0004.jpg (file attached)
+01/07/2024, 20:35 - navinrajput: Ye aaya mujhe
+01/07/2024, 21:22 - Aniket Raje: This message was deleted
+01/07/2024, 21:24 - Aniket Raje: Muje bhi aya hai
+01/07/2024, 21:24 - Aniket Raje: Same
+01/07/2024, 21:24 - navinrajput: Ok
+17/07/2024, 19:28 - navinrajput: Hii
+17/07/2024, 19:28 - navinrajput: Bro take u forward mai lecture bhi dekhate ho kya
+17/07/2024, 20:19 - Aniket Raje: Ha
+17/07/2024, 20:20 - navinrajput: Ok
+22/07/2024, 22:22 - navinrajput: Hii bhai
+22/07/2024, 22:23 - navinrajput: Bhai fast api base project pata hai
+22/07/2024, 22:40 - Aniket Raje: Nhi bhai
+22/07/2024, 22:40 - Aniket Raje: Maine abhi tak fastapi use nhi kiya
+22/07/2024, 22:41 - navinrajput: koi resource pata hAI
+22/07/2024, 22:41 - Aniket Raje: Ruko dekha tu mila toh bheja hu
+22/07/2024, 22:41 - Aniket Raje: Mere bookmarks main se
+22/07/2024, 22:43 - Aniket Raje: Nhi hai bhai kuch
+22/07/2024, 22:50 - navinrajput: Ok
+29/07/2024, 18:18 - navinrajput: Hii
+29/07/2024, 19:37 - navinrajput: Bro jo take u forward par se dsa karte hu tu code kaise python mai karte hu
+29/07/2024, 20:09 - Aniket Raje: Chatgpt
+29/07/2024, 20:09 - navinrajput: Tu phir logic kaise build hoga bhai
+29/07/2024, 20:09 - Aniket Raje: Pehle main try karta hu
+29/07/2024, 20:09 - navinrajput: Ok
+29/07/2024, 20:10 - Aniket Raje: Nhi hua toh check karta hu
+29/07/2024, 20:10 - navinrajput: Fastapi ka mai project bana kuch idea hai
+29/07/2024, 20:10 - navinrajput: Tumko
+29/07/2024, 20:10 - Aniket Raje: Nhi
+29/07/2024, 20:11 - navinrajput: Koi Idea hai accha sa wo bata do
+29/07/2024, 20:11 - Aniket Raje: Peer to peer location tracking
+29/07/2024, 20:12 - navinrajput: Or hai koi
+29/07/2024, 20:15 - Aniket Raje: Event finder
+29/07/2024, 20:15 - Aniket Raje: Or meetup finder
+29/07/2024, 20:20 - navinrajput: Ok
+11/08/2024, 19:22 - navinrajput: Hi
+11/08/2024, 19:33 - Aniket Raje: Hi bhai
+11/08/2024, 19:33 - navinrajput: Bhai tumne jo project Idea bata ya haina thoda sa unique id bata duna bhai
+11/08/2024, 19:34 - Aniket Raje: Bhai muje khud ko abhi project bana na hai. Aur koi idea ah nhi raha
+11/08/2024, 19:34 - Aniket Raje: Aya toh batunga dunga apko
+11/08/2024, 19:34 - Aniket Raje: Apko koi idea mila toh muje bhi batana
+11/08/2024, 19:34 - navinrajput: Nhi bhai mujhe deadline hai Tuesday ko
+11/08/2024, 19:35 - Aniket Raje: Main car renting pe kuch bana ne ka soch raha hu
+11/08/2024, 19:35 - Aniket Raje: Zoomcar type
+11/08/2024, 19:36 - navinrajput: Car rental wala tu jab bca mai tha tu ek friend ka banaya tha
+11/08/2024, 19:36 - Aniket Raje: Ya phir import export sellers finder
+11/08/2024, 19:36 - navinrajput: Bro koi site pata hai jaha par se idea mile
+11/08/2024, 19:37 - Aniket Raje: https://www.crio.do/projects/?utm_source=adwords&gclid=CjwKCAiA3KefBhByEiwAi2LDHG1E6ZlzpPVS_jFbDTKSZ78BzHoqxStYSKIb0quJqEoUzckZZOgsnRoCK9QQAvD_BwE
+11/08/2024, 19:38 - Aniket Raje: https://projectlearn.io/#categories
+11/08/2024, 19:38 - navinrajput: Ye tu dekha ismai ek project hai wo dekho tum chatbot dong recommends
+11/08/2024, 19:38 - Aniket Raje: https://projectworlds.in/
+11/08/2024, 19:39 - Aniket Raje: Aap kis ke liye bana rahe ho
+11/08/2024, 19:39 - Aniket Raje: Main college project ke liye bana raha hu
+11/08/2024, 19:39 - navinrajput: Final year project
+11/08/2024, 19:39 - navinrajput: Same
+11/08/2024, 19:40 - Aniket Raje: 2min main ek dekhta hu
+11/08/2024, 19:40 - navinrajput: Ok
+11/08/2024, 19:42 - Aniket Raje: https://www.linkedin.com/posts/activity-7064214812951482368-tAXa?utm_source=share&utm_medium=member_android
+11/08/2024, 19:43 - navinrajput: Movie recommendations system hai
+11/08/2024, 19:47 - Aniket Raje: Nhi voice dubbing type kuch hai
+11/08/2024, 19:48 - navinrajput: Ok
+27/08/2024, 21:59 - navinrajput: Hii
+27/08/2024, 21:59 - Aniket Raje: Hi
+27/08/2024, 21:59 - navinrajput: Bhai ml ke basic theory ki notes hai like type of ml and other topics
+27/08/2024, 22:00 - Aniket Raje: Nhi bhai
+27/08/2024, 22:00 - navinrajput: Ok
+27/08/2024, 22:00 - Aniket Raje: Campusx ke
+27/08/2024, 22:00 - Aniket Raje: Website pe mil jayega
+27/08/2024, 22:00 - navinrajput: Ok
+27/08/2024, 22:06 - navinrajput: Jo tumne mujhe phele notes bej the wo hi tumhare paas ya dusri koi aur note bhi hai
+27/08/2024, 22:06 - Aniket Raje: Vhi hai
+27/08/2024, 22:06 - navinrajput: Ok
+27/08/2024, 22:07 - navinrajput: Math ke banaya the
+27/08/2024, 22:07 - navinrajput: Kya
+27/08/2024, 22:07 - Aniket Raje: Nhi
+27/08/2024, 22:07 - Aniket Raje: Math mene kiya nhi
+27/08/2024, 22:07 - navinrajput: Ok
+28/08/2024, 18:29 - navinrajput: Data analysis or data engineer ka roadmap
+28/08/2024, 18:30 - Aniket Raje: https://roadmap.sh/data-analyst
+28/08/2024, 18:30 - navinrajput: Data engineer ka hai
+28/08/2024, 18:30 - Aniket Raje: Nhi
+30/08/2024, 09:56 - navinrajput: Hii
+30/08/2024, 11:03 - Aniket Raje: Hi
+30/08/2024, 20:04 - navinrajput: Nothing bro
+08/09/2024, 11:07 - navinrajput: Hii
+08/09/2024, 19:25 - Aniket Raje: Hi
+08/09/2024, 19:25 - Aniket Raje: Bhai dusra kon kon hai interested
+08/09/2024, 19:26 - navinrajput: Bhai idea nhi mujhe
+08/09/2024, 19:26 - Aniket Raje: Please pucho kisko ko koi interested hai kya
+08/09/2024, 19:26 - Aniket Raje: Aur 2 log chaiye hume
+08/09/2024, 19:26 - navinrajput: Ok
+08/09/2024, 21:11 - Aniket Raje: Hi bhai koi 1 bhi nhi hai kya
+08/09/2024, 21:11 - Aniket Raje: Jo aa skta hai
+08/09/2024, 21:17 - navinrajput: Nhi bhai
+08/09/2024, 21:17 - Aniket Raje: Kya karna phir
+08/09/2024, 21:18 - navinrajput: Bhai mai soch raha mai rhen de kyu mera tu placement bhi start hai tu mai jada dhyan nhi de punga shayad
+08/09/2024, 21:18 - Aniket Raje: Ok
+21/09/2024, 23:54 - navinrajput: Hii bro
+21/09/2024, 23:58 - Aniket Raje: Hi
+22/09/2024, 10:13 - navinrajput: Bro tumko intership karni hai kya
+22/09/2024, 10:52 - Aniket Raje: Ha
+22/09/2024, 11:01 - navinrajput: Bhai tu job hunting chalu kare
+22/09/2024, 11:07 - Aniket Raje: Ok
+22/09/2024, 11:08 - navinrajput: Haa bro linkdin par or koi platform pata hai tumko
+22/09/2024, 11:08 - navinrajput: Ek tu intereshal hai
+22/09/2024, 11:08 - Aniket Raje: Naukri, indeed, unstop
+22/09/2024, 11:09 - navinrajput: Thik aaj account bana te hai aur start karte hai
+22/09/2024, 11:09 - Aniket Raje: Maine banya hai
+22/09/2024, 11:10 - navinrajput: Mera indeed par unstop aur naukari par nhi hai
+22/09/2024, 11:10 - Aniket Raje: Ok
+22/09/2024, 11:10 - Aniket Raje: Banv phir
+22/09/2024, 11:10 - navinrajput: Ok
+22/09/2024, 11:11 - Aniket Raje: Follow the Krishan Kumar - Jobs & Internships Updates channel on WhatsApp: https://whatsapp.com/channel/0029Va6I79K60eBfQ92DwH0W
+22/09/2024, 11:11 - Aniket Raje: Follow the TECH CAREER  {Jobs | Internships | Upskill} channel on WhatsApp: https://whatsapp.com/channel/0029Va982CH6hENxVXZzuX14
+22/09/2024, 13:09 - navinrajput: Bro done
+22/09/2024, 13:09 - Aniket Raje: Bhai apka resume send karo na
+22/09/2024, 13:10 - navinrajput: Wait
+22/09/2024, 13:12 - navinrajput: Navin Rajput Resume.pdf (file attached)
+22/09/2024, 13:25 - navinrajput: Kaisa hai
+22/09/2024, 13:25 - Aniket Raje: Acha hai
+22/09/2024, 13:26 - Aniket Raje: Bas ab internship karni hai
+22/09/2024, 13:26 - Aniket Raje: Hume
+22/09/2024, 13:26 - navinrajput: Hmm
+22/09/2024, 22:21 - navinrajput: https://unstop.com/o/xB4bNvw?lb=5bVhETkf&utm_medium=Share&utm_source=shortUrl
+23/09/2024, 20:17 - navinrajput: Hii
+23/09/2024, 20:28 - Aniket Raje: Hi bro
+23/09/2024, 20:53 - navinrajput: Bhai wo jo take u forward ka dsa karte hu mujhe thoda bata na kaisa karte hu kyu mujhe pura logic nhi banta hai use isa liye
+23/09/2024, 20:55 - Aniket Raje: Main pehle takeuforward channel pe video dekh tha hu, phir uska code likhne kha try karta hu, nhi hua toh phirse video dekh tha hu
+23/09/2024, 20:55 - navinrajput: Bhai tu jada time waste nhi hota hai
+23/09/2024, 20:55 - Aniket Raje: Ha
+23/09/2024, 20:56 - Aniket Raje: Bas pattern yaad rakhne kha try karta hu
+23/09/2024, 20:56 - navinrajput: Ok
+23/09/2024, 20:57 - Aniket Raje: DOC-20240505-WA0002 (file attached)
+23/09/2024, 20:57 - navinrajput: Ok
+23/09/2024, 20:57 - Aniket Raje: Bhai neetcode io ka playlist bhi acha hau
+23/09/2024, 20:57 - Aniket Raje: Hai*
+23/09/2024, 20:58 - navinrajput: Haa dekha ta hu
+24/09/2024, 18:19 - navinrajput: Hii
+24/09/2024, 18:33 - navinrajput: Bhai mai kuch soch raha tha ki hum 2 ,4 milkar ek ya doo data science field mai unique project banaye
+24/09/2024, 18:39 - Aniket Raje: Ha
+24/09/2024, 18:40 - navinrajput: Tu hum theen log milkar banate hai
+24/09/2024, 18:40 - Aniket Raje: Kon hai aur
+24/09/2024, 18:41 - navinrajput: Bhai mai aur tum aur abhi
+24/09/2024, 18:41 - Aniket Raje: Ok
+24/09/2024, 18:41 - Aniket Raje: Koi idea soch hai
+24/09/2024, 18:42 - navinrajput: Bhai mai tu soch raha jo smart india hackathon mai bhut sare idea hai tu usko category wise search karte hai usmai se ek do find karte hai
+24/09/2024, 18:43 - Aniket Raje: Ml related jyda nhi hai
+24/09/2024, 18:43 - Aniket Raje: Humne dekha tha
+24/09/2024, 18:43 - Aniket Raje: Sar image colorization, deepfake detection
+24/09/2024, 18:43 - Aniket Raje: Aur ek hai
+24/09/2024, 18:44 - navinrajput: Haa tu dekhate hai aur kahi se mile tu
+24/09/2024, 18:44 - Aniket Raje: Ok
+24/09/2024, 20:04 - navinrajput: https://www.expertia.ai/zenconsultancy-net/job/hiring-data-science-interns-66653a7f99c001756d25237a?utm_source=linkedin-feed&easy_apply=true&date-refresh=09/24/2024
+24/09/2024, 20:27 - navinrajput: https://app.soulhq.ai/?campus=data-scientists
+24/09/2024, 20:27 - navinrajput: Bhai ye do company ka mila mujhe linkdin se
+24/09/2024, 20:27 - Aniket Raje: Ok
+27/09/2024, 16:54 - navinrajput: Bhai koi project mila
+27/09/2024, 16:54 - Aniket Raje: Nhi
+27/09/2024, 17:00 - navinrajput: Ok
+16/10/2024, 20:05 - navinrajput: Hii
+16/10/2024, 20:05 - Aniket Raje: Hello
+16/10/2024, 20:06 - navinrajput: Bhai abhi group mai company dala data science ke role ke apply kare kya
+16/10/2024, 20:07 - Aniket Raje: Online hai ya off
+16/10/2024, 20:07 - Aniket Raje: Offline
+16/10/2024, 20:07 - navinrajput: Idea nhi mujhe ek baar tum dekho na
+16/10/2024, 20:07 - Aniket Raje: Ok
+17/10/2024, 08:41 - navinrajput: Hii
+17/10/2024, 08:53 - Aniket Raje: Bhai mera abhi exams  hai toh main jyda dyan nhi de paunga
+23/10/2024, 18:34 - navinrajput: Hii bhai
+23/10/2024, 18:35 - Aniket Raje: Hi
+23/10/2024, 18:35 - navinrajput: Puri ho gi exam
+23/10/2024, 18:35 - Aniket Raje: Nhi
+23/10/2024, 18:35 - navinrajput: Ok
+23/10/2024, 18:35 - Aniket Raje: Kya hua
+23/10/2024, 18:35 - navinrajput: Nhi wo internship or job ke apply karne ke liye pucha khai kiya tumne
+23/10/2024, 18:36 - Aniket Raje: Main try kar raha hu har jagh
+23/10/2024, 18:36 - Aniket Raje: Aap welfound pe bhi apply karo
+23/10/2024, 18:36 - navinrajput: Bhai tu link bej diya karo mujhe
+23/10/2024, 18:36 - Aniket Raje: Maine bhi kiya hai
+23/10/2024, 18:37 - Aniket Raje: Are bhai muje yaad nhi tha
+23/10/2024, 18:37 - Aniket Raje: Sorry
+23/10/2024, 18:37 - navinrajput: Ok
+23/10/2024, 18:37 - Aniket Raje: Wellfound try karo
+23/10/2024, 18:37 - navinrajput: Mai kya bol  ats friendly resume mera ho nhi rahi apna ek baar bejna
+23/10/2024, 18:37 - Aniket Raje: 66e40dd732453_aniket-raje-resume-compressed.docx (file attached)
+23/10/2024, 18:38 - Aniket Raje: Mera full stack oriented hai resume
+23/10/2024, 18:38 - navinrajput: Ok
+23/10/2024, 18:38 - navinrajput: Mai tu Full stack python developer ka or data science ka bano ga
+23/10/2024, 18:39 - Aniket Raje: Ok
+25/10/2024, 22:02 - navinrajput: Bhai mera resume ka review karna ek baar bejta hu
+25/10/2024, 22:02 - navinrajput: Navin Rajput Resume.pdf (file attached)
+25/10/2024, 23:09 - Aniket Raje: Bhai badiya hai mere se toh
+27/10/2024, 22:15 - navinrajput: Bhai abhi kisi company mai apply kiya hai
+27/10/2024, 22:18 - Aniket Raje: Nhi
+03/11/2024, 21:43 - navinrajput: Hii bhai
+03/11/2024, 21:43 - navinrajput: IMG-20241103-WA0003.jpg (file attached)
+03/11/2024, 21:56 - Aniket Raje: Bhai thik se check karo aaj kal bhut scam chal rahe hai
+03/11/2024, 21:57 - navinrajput: Bhai maine company dekhi abhi
+03/11/2024, 21:57 - Aniket Raje: Toh
+03/11/2024, 21:57 - navinrajput: Ek baar tum linkdin par dekho usmai opening bhi chalu hai
+03/11/2024, 21:58 - Aniket Raje: Link send karo na
+03/11/2024, 21:58 - navinrajput: https://www.linkedin.com/company/try-outlier/
+03/11/2024, 21:58 - navinrajput: Ye company linkdin Page hai
+03/11/2024, 22:00 - Aniket Raje: Apne apply kiya kya
+03/11/2024, 22:00 - navinrajput: Nhi but jo maine sc beja tha wo usmai work karti hai or refer karna chahti apni company mai
+03/11/2024, 22:01 - Aniket Raje: Toh bolo karne ko
+03/11/2024, 22:01 - Aniket Raje: Dekhte hai kya hota hai
+03/11/2024, 22:01 - navinrajput: Bola hai details share kar du kya manga hai
+03/11/2024, 22:01 - Aniket Raje: Kardo
+03/11/2024, 22:01 - navinrajput: Ok
+03/11/2024, 22:20 - navinrajput: https://www.expertia.ai/skillsecureai-in/job/hiring-data-science-intern-67274e2abe018adcf890e4be?utm_source=linkedin-feed&easy_apply=true
+04/11/2024, 12:05 - navinrajput: IMG-20241104-WA0001.jpg (file attached)
+04/11/2024, 12:26 - Aniket Raje: Kya hua
+04/11/2024, 15:09 - navinrajput: Bhai ye email aaya tha company ki taraf se
+04/11/2024, 15:10 - navinrajput: But wo log remote job offer kar raha hai as coder or ai trainer
+04/11/2024, 15:27 - Aniket Raje: Toh apko nhi chaiye kya
+04/11/2024, 15:27 - navinrajput: Bhai wo hi socha raha hu kya karo
+04/11/2024, 15:27 - Aniket Raje: Pay kitna kar rahe hai
+04/11/2024, 15:27 - Aniket Raje: Ya interview hone wala hai
+04/11/2024, 15:28 - Aniket Raje: Kardo bhai remote acha rhega
+04/11/2024, 15:29 - navinrajput: Form fill karne ko kha hai uske baad ek assesment hoga or interview the start work
+04/11/2024, 15:29 - Aniket Raje: Ok
+04/11/2024, 15:29 - Aniket Raje: Kardo
+04/11/2024, 15:29 - Aniket Raje: Kya socha hai apne
+04/11/2024, 15:30 - navinrajput: Bhai office wala hotu jada accha rahaga dekhta hu apply kar deta hu jo hoga dekha jayega
+04/11/2024, 15:30 - Aniket Raje: Kardo bhai
+04/11/2024, 15:30 - Aniket Raje: Experience main hai
+04/11/2024, 15:31 - Aniket Raje: Baad main switch kar sakte hai
+04/11/2024, 15:31 - Aniket Raje: Apne internships ki hai kya pehle
+04/11/2024, 15:31 - navinrajput: Freelancing type hai
+04/11/2024, 15:31 - Aniket Raje: Ha
+04/11/2024, 15:34 - navinrajput: Haa isliye socha raha hu ki karo ya na karo
+04/11/2024, 15:34 - Aniket Raje: Dekho
+04/11/2024, 15:35 - navinrajput: Main le tarun bhai se pucha tha une bhi bola try kar nhi man kiya tu chod dena
+04/11/2024, 15:35 - Aniket Raje: Vhi
+04/11/2024, 15:35 - Aniket Raje: Kuch na karne se acha hai
+04/11/2024, 15:35 - navinrajput: Hmm
+04/11/2024, 15:36 - navinrajput: null
+04/11/2024, 15:36 - Aniket Raje: Call kiya tha
+04/11/2024, 15:36 - navinrajput: Glati tap ho ga ya
