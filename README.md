@@ -137,8 +137,3 @@ Pull requests are welcome! To contribute:
 This project is open-source. Feel free to use and modify it for personal or educational purposes.
 
 ---
-
-## 👤 Author
-
-**Navin Rajput**  
-GitHub: [@Navinrajput2712](https://github.com/Navinrajput2712)
